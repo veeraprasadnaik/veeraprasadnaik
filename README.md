@@ -56,6 +56,12 @@ flowchart LR
     style G fill:#0e75b6,stroke:#22d3ee,color:#ffffff
 ```
 
+<div align="center">
+  <img src="./Gemini_Generated_Image_ixeivixeivixeivi.png" width="90%" />
+  <br/>
+  <sub>Conceptual QKD system setup (AI-generated illustration): Alice Tx, Bob Rx, FPGA key generation and SNSPD detection</sub>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
 ## 🛡️ Post-Quantum Cryptography (PQC) & Hardware Security
@@ -100,6 +106,40 @@ flowchart LR
     style T fill:#0f2027,stroke:#8b5cf6,color:#ffffff
     style D fill:#0e75b6,stroke:#22d3ee,color:#ffffff
 ```
+
+### 🧱 Physical Design: Cadence Innovus
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./innovus_1.png" width="100%" />
+      <br/>
+      <sub>Floorplan with memory macro placement</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./innovus_2.png" width="100%" />
+      <br/>
+      <sub>Floorplan with net connectivity (flight lines) view</sub>
+    </td>
+  </tr>
+</table>
+
+### 🧪 RTL Simulation: RAM/ROM Memory System (Vivado)
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./RAM_ROM_Simulation_.png" width="100%" />
+      <br/>
+      <sub>Simulation waveform: clk, we, sel, addr, din, dout</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./RAM_ROM_TIMING_ANALYSIS_.png" width="100%" />
+      <br/>
+      <sub>Timing waveform: write, then read-back across memory select</sub>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
@@ -148,8 +188,8 @@ flowchart LR
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project One](https://github.com/veeraprasadnaik/project-one) | e.g. LDPC decoder for QKD post-processing | SystemVerilog |
-| [Project Two](https://github.com/veeraprasadnaik/project-two) | e.g. NTT multiplier for ML-KEM | Verilog |
+| RAM/ROM Memory System | Memory system with write/read and select logic, verified with a testbench in Vivado | Verilog |
+| Physical Design (Innovus) | Floorplan and placement with memory macros | Cadence Innovus |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
@@ -169,8 +209,6 @@ flowchart LR
 <img src="https://github-profile-trophy.vercel.app/?username=veeraprasadnaik&theme=onedark&no-frame=true&row=1&column=6" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=veeraprasadnaik&theme=tokyo-night&hide_border=true" width="100%" />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
 
