@@ -23,7 +23,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -31,7 +31,7 @@ Electronics and Communication Engineering student specializing at the boundary o
 
 📍 Tirupati, India
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
 ## 🔐 Quantum Key Distribution (QKD) Hardware
 
@@ -56,7 +56,7 @@ flowchart LR
     style G fill:#0e75b6,stroke:#22d3ee,color:#ffffff
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
 ## 🛡️ Post-Quantum Cryptography (PQC) & Hardware Security
 
@@ -77,7 +77,7 @@ flowchart LR
     style NTT fill:#0e75b6,stroke:#22d3ee,color:#ffffff
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
 ## ⚙️ ASIC & FPGA Implementation Flow
 
@@ -101,9 +101,15 @@ flowchart LR
     style D fill:#0e75b6,stroke:#22d3ee,color:#ffffff
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
 ## 🛠️ Technical Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,linux,vscode&theme=dark" />
+
+</div>
 
 **HDL & Verification**
 
@@ -136,7 +142,7 @@ flowchart LR
 ![AHB](https://img.shields.io/badge/AMBA_AHB-D29922?style=for-the-badge)
 ![APB](https://img.shields.io/badge/AMBA_APB-238636?style=for-the-badge)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -145,7 +151,7 @@ flowchart LR
 | [Project One](https://github.com/veeraprasadnaik/project-one) | e.g. LDPC decoder for QKD post-processing | SystemVerilog |
 | [Project Two](https://github.com/veeraprasadnaik/project-two) | e.g. NTT multiplier for ML-KEM | Verilog |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -153,6 +159,18 @@ flowchart LR
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=veeraprasadnaik&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeraprasadnaik&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=veeraprasadnaik&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=veeraprasadnaik&theme=onedark&no-frame=true&row=1&column=6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veeraprasadnaik&theme=tokyo-night&hide_border=true" width="100%" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
 
